@@ -1,7 +1,7 @@
 {
   "id": "svg",
   "name": "Image",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "protocol": 7,
   "api": {
     "base": "^1",

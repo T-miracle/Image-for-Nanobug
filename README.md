@@ -1,5 +1,7 @@
 # Image
 
+Version **0.6.3** targets the Nanobug internal-test build of 2026-11-02 through the public host SDK. Installation IDs and permissions are preserved. Windows native helpers included in this package use a statically linked runtime.
+
 Local candidate 0.6.2 uses the configurable native `Editor` contract (`ui.code_editor ^2`, `editor.layout ^2`). It requires the matching development host; content, Undo/Redo and existing plugin data are retained. Build this uncommitted candidate with that host, rather than the historical host revision below.
 
 
